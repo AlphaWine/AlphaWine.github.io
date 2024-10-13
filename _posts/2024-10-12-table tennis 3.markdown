@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 description: 这个星期的比赛总结.
 background: '/img/bg-about.jpg'
-published: false
+published: true
 
 ---
 
