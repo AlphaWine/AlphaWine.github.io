@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 description: This is what I teaching.
 background: '/img/bg-about.jpg'
+published: false
 
 ---
 
