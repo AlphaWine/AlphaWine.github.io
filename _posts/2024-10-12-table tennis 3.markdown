@@ -19,5 +19,12 @@ published: true
 ### 打高球我离球台太近 拉手太低
 
 ### 搓球动作为什么那么大 尤其是反手
-<iframe width="560" height="315" src="[https://youtu.be/v5fpd7Dut8Y?si=Bkny888lJUe1o_iX&t=1094](https://youtu.be/hSSSu86W3Vs?si=anLGWYCUdfC-5aiP&t=410)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/hSSSu86W3Vs?si=anLGWYCUdfC-5aiP&t=410" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/CsNXiJTRZtc?si=lAtlG5QpuBrXTFYq&t=127" frameborder="0" allowfullscreen></iframe>
+
+
+### 接发球
+这些侧旋我吃麻了
+<iframe width="560" height="315" src="https://youtu.be/CsNXiJTRZtc?si=jhlYmJbxZby5N6na&t=87" frameborder="0" allowfullscreen></iframe>
+
 
